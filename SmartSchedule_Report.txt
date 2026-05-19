@@ -1,0 +1,26 @@
+Smart Schedule Optimization
+
+Total cycles used: 10000 / 10000
+Orders satisfied: 115
+Orders cancelled: 79
+Profit before CPU discount: $3133456.00
+Additional CPU discount profit: $116640.00
+Total profit (with discount): $3250096.00
+
+CPU counts (for discount check):
+  Pintel CPU 3GHz : 469
+  Pintel CPU 5GHz : 493
+  IMD CPU 3GHz : 648
+  IMD CPU 5GHz : 289
+
+Component breakdown:
+   0 - Pintel CPU 3GHz : 469
+   1 - Pintel CPU 5GHz : 493
+   2 - IMD CPU 3GHz : 648
+   3 - IMD CPU 5GHz : 289
+   4 - Pintel motherboard : 962
+   5 - IMD motherboard : 937
+   6 - Memory 16GB : 1044
+   7 - Memory 32GB : 855
+   8 - Hard disk 1TB : 1132
+   9 - Hard disk 2TB : 767

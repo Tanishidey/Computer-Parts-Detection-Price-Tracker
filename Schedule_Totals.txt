@@ -1,0 +1,4 @@
+Total cycles used: 9995 / 10000
+Total profit (no CPU discount): $2864744.50
+Cancellation penalty (deduction): -$163667.39
+Net profit (Task 3 base): $2701077.11

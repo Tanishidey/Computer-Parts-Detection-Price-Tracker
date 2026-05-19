@@ -1,0 +1,12 @@
+Component Requirements (CompId -> Units)
+
+Comp #0 (Pintel CPU 3GHz) : 562
+Comp #1 (Pintel CPU 5GHz) : 403
+Comp #2 (IMD CPU 3GHz) : 561
+Comp #3 (IMD CPU 5GHz) : 346
+Comp #4 (Pintel motherboard) : 965
+Comp #5 (IMD motherboard) : 907
+Comp #6 (Memory 16GB) : 913
+Comp #7 (Memory 32GB) : 959
+Comp #8 (Hard disk 1TB) : 1073
+Comp #9 (Hard disk 2TB) : 799

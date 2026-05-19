@@ -1,0 +1,18 @@
+PC Production Breakdown (PCId -> Units)
+
+PC #0 : 84
+PC #1 : 130
+PC #2 : 191
+PC #3 : 157
+PC #4 : 106
+PC #5 : 101
+PC #6 : 116
+PC #7 : 80
+PC #8 : 264
+PC #9 : 102
+PC #10 : 143
+PC #11 : 52
+PC #12 : 67
+PC #13 : 59
+PC #14 : 102
+PC #15 : 118
